@@ -200,6 +200,18 @@ p > span > a {
   }
 
   .card {
-    margin: 0 auto;
+    margin: 20px auto;
+  }
+
+  p > span > a {
+    text-decoration: none;
+    font-weight: 600 !important;
+    width: 480px !important;
+    color: #ec8884;
+    display: inline-block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow-x: hidden;
+    vertical-align: bottom;
   }
 }
