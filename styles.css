@@ -50,8 +50,9 @@ main {
 
 .sec {
   background: #1e1e1e;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-right: 0px !important;
+  margin-bottom: 0 !important;
 }
 
 .ter {
@@ -123,7 +124,7 @@ ol.main-links {
 }
 
 ul.inner-links {
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 li > a {
