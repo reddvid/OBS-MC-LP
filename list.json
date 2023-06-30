@@ -1,0 +1,161 @@
+[
+  {
+    "video": ["Intro", "Downloading OBS", "OBS Primer", "KB and Wiki"]
+  },
+  {
+    "video": [
+      "Autoconfig",
+      "Quick UI Tour",
+      "Understanding Canvas and Layers",
+      "Adding a Camera",
+      "Capturing your Computer",
+      "Game Capture",
+      "What are Scenes Sources",
+      "Building First Scene",
+      "Capturing Game Consoles",
+      "Index of Settings",
+      "Projectors"
+    ]
+  },
+  {
+    "video": [
+      "Streaming to Twitch and YT",
+      "Optimize YT Settings",
+      "YouTube AV1 Recommendations",
+      "Optimize Twitch Settings",
+      "Understanding Encoders",
+      "Canvas and Sizing",
+      "Scale Filtering",
+      "Non 16-9 Format",
+      "4x3 Master Class",
+      "Recording Format",
+      "Find Recordings",
+      "Fragmented File Formats",
+      "What are BFrames",
+      "How OBS Uses your HW",
+      "HDR Recording",
+      "NVENC Optimization Guide",
+      "Nvidia Psycho Tuning Explained",
+      "Nvidia AV1 Best Settings",
+      "Nvidia HEVC Best Settings",
+      "Intel QSV Optimization",
+      "AMD AV1 Best Settings",
+      "AMD HEVC Best Settings",
+      "YouTube HDR Streaming",
+      "Twitch YT Transcoding",
+      "RGB Full vs Partial"
+    ]
+  },
+  {
+    "video": [
+      "Understanding Mixer and Multitrack",
+      "Customize Sampling Meters",
+      "Lossless Audio",
+      "Filters",
+      "Monitor Audio Filters Easier",
+      "Sync w Webcam",
+      "Mic Positioning",
+      "Perfect Audio VST",
+      "Perfect Audio OBS"
+    ]
+  },
+  {
+    "video": [
+      "Professional Stream Layouts",
+      "Profiles Scene Collections",
+      "Simple vs Advanced",
+      "Transitions",
+      "Scene Nesting Explained",
+      "Scene Nesting Live Demo",
+      "Alerts Intro",
+      "Downloading your NoD Layout",
+      "Alerts Overlays Setup",
+      "Editing NOD Package",
+      "Webcam Masks",
+      "How to Green Screen",
+      "Cool Effects Next Level",
+      "OBS Organization",
+      "Background Music Methods"
+    ]
+  },
+  {
+    "video": [
+      "Intro",
+      "Studio Mode",
+      "Screenshots",
+      "Customize OBS UI",
+      "Multiview",
+      "Options for Controlling OBS",
+      "Launch Parameters",
+      "Virtualcam Portable Fix",
+      "Split Files Losslesscut"
+    ]
+  },
+  {
+    "video": [
+      "Intro",
+      "HW Recs",
+      "Dual PC Setups",
+      "PC Optimizations",
+      "NDI vs Teleport",
+      "OBS Teleport",
+      "Fix NDI Teleport Firewall"
+    ]
+  },
+  {
+    "video": [
+      "Intro",
+      "How to MultiStream P1",
+      "MultiStream P2",
+      "Creating for Vertical Content",
+      "Multistream Alerts and Chat.",
+      "Virtual Camera TIPS and Tricks",
+      "Multistreaming VB Cable",
+      "Building a Stream Show"
+    ]
+  },
+  {
+    "video": [
+      "Intro",
+      "Every Source Setting Understood",
+      "UVC Controls",
+      "How to Install Plugins",
+      "Top Plugins",
+      "Audio Monitoring Plugin",
+      "DSK",
+      "Scene Collection Manager",
+      "Scene Notes",
+      "Source Record Plugin",
+      "Color Grading OBS",
+      "Invert Effect",
+      "Make your OWN Effect LUTs",
+      "My INSANE Screen Capture Worklow",
+      "Secret Tips n Tricks",
+      "When to Change Color Space-Format",
+      "Troubleshooting Basics",
+      "Render v Encode Lag v Dropped Frames",
+      "Windows Gaming Features",
+      "Game-Specific Fixes",
+      "Hunting for Your Issues",
+      "Back Up OBS",
+      "Scripts you Should Try",
+      "Audio Status Monitor Script",
+      "7 OBS Settings to Check",
+      "Free OBS Tools to Try"
+    ]
+  },
+  {
+    "video": [
+      "Intro",
+      "Lossless for FPS Analysis",
+      "Lossless for Upscaling",
+      "OBS Glitchart",
+      "Streaming Rec Highlights Same Time",
+      "Music Visualizer",
+      "Separate Webcam Gameplay Same Time",
+      "Pause Effect",
+      "Shadowplay Replacement",
+      "Tutorial Setup Tips and Tricks"
+    ]
+  }
+]
