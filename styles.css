@@ -64,6 +64,10 @@ main {
   border-radius: 4px;
 }
 
+.inner {
+  margin-top: 20px;
+}
+
 code {
   font-family: "JetBrains Mono", "Courier New", Courier, monospace;
   font-size: 0.7rem;
