@@ -26,7 +26,7 @@ window.onload = async function () {
       video.src = `./output/Ch ${i + 1} - ${j + 1} - ${json[i].video[j]}.mp4`;
       video.classList.add("vid");
       video.controls = true;
-      video.preload = "metadata";
+      video.preload = "none";
       div.appendChild(h3);
       div.appendChild(video);
     }
