@@ -32,3 +32,9 @@ window.onload = async function () {
     }
   }
 };
+
+$(function () {
+  $("#menu").click(function () {
+    $("#menu-list").toggle();
+  });
+});

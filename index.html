@@ -6,11 +6,12 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>The Definitive Guide to OBS Studio by Epos Vox</title>
       <link rel="stylesheet" href="styles.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
 
 <body>
       <h1>The Definitive Guide to OBS Studio</h1>
-
+      <div id="menu" onkeypress="showHideMenu()">🍿</div>
       <div id="container">
             <main class="col-0 ">
                   <div id="ch1" class="chapter-wrapper card">
@@ -275,7 +276,7 @@
                   </div>
             </main>
 
-            <aside class="col-1 card">
+            <aside id="menu-list" class="col-1 card">
                   <ol class="main-links">
                         <li><a href="#ch1">Chapter 1: Intro to the Course</a>
                               <ul class="inner-links">
